@@ -1,7 +1,10 @@
+<<<<<<< HEAD
 import os
 import time
 
 print(os.getcwd))
 
 
+=======
+>>>>>>> 949981a5e9ad5a696ffd8e9d05470ef24a47476a
 
