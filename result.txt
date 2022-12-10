@@ -1,0 +1,14 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 7E81-A919
+ Volume in drive C has no label.
+ Volume Serial Number is 7E81-A919
+Microsoft Windows [Version 10.0.19045.2251]
+(c) Microsoft Corporation. Wszelkie prawa zastrze¾one.
+
+C:\Users\vdi-student\Desktop\first_repo>Microsoft Windows [Version 10.0.19045.2251]
+(c) Microsoft Corporation. Wszelkie prawa zastrze¾one.
+
+C:\Users\vdi-student\Desktop\first_repo>Microsoft Windows [Version 10.0.19045.2251]
+(c) Microsoft Corporation. Wszelkie prawa zastrze¾one.
+
+C:\Users\vdi-student\Desktop\first_repo>
